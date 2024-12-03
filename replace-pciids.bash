@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+#  Copyright (c) 2024 Di Wang (KEK)
 #  Copyright (c) 2016 Jeong Han Lee
 #  Copyright (c) 2016 European Spallation Source ERIC
 #
@@ -76,7 +77,7 @@ case "$RELEASE" in
     ubuntu) 
 	TARGET=${DEBIAN};
 	;;
-    centos)
+    centos | almalinux | rocky)
 	TARGET=${CENTOS};
 	;;
     *) 	
