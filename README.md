@@ -28,10 +28,10 @@ The following hardware pciid defintions are in this repository.
 1a3e  Micro-Research Finland Oy
 	10c8  PMC Event Receiver 200
 	11e6  PMC Event Receiver 230
-	10dc  CPCI Event Receiver 220
-	20dc  CPCI Event Generator 220
-	10e6  CPCI Event Receiver 230
-	20e6  CPCI Event Generator 230
+	10dc  PXI Event Receiver 220
+	20dc  PXI Event Generator 220
+	10e6  PXI Event Receiver 230
+	20e6  PXI Event Generator 230
 	152c  CPCI Event Receiver 300
 	172c  PCIE Event Receiver 300(DC)
 	252c  CPCI Event Generator 300
